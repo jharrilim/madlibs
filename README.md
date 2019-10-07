@@ -30,6 +30,6 @@ The ${"adjective"} ${"noun"} was ${"verb ending in ing"} over the ${"noun"}
 // Output: The speedy sloth was flying over the ocean
 ```
 
-[Version]: https://img.shields.io/npm/v/jharrilim/madlibs?style=flat-square
-[Downloads]: https://img.shields.io/npm/dt/jharrilim/madlibs?style=flat-square
+[Version]: https://img.shields.io/npm/v/@jharrilim/madlibs?style=flat-square
+[Downloads]: https://img.shields.io/npm/dt/@jharrilim/madlibs?style=flat-square
 [Build Status]: https://dev.azure.com/josephharrisonlim/josephharrisonlim/_apis/build/status/jharrilim.madlibs?branchName=master
