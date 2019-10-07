@@ -1,6 +1,6 @@
 {
   "name": "@jharrilim/madlibs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "randomized madlibs templating engine",
   "main": "dist/index.js",
   "scripts": {
