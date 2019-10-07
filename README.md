@@ -1,6 +1,10 @@
 # MadLibs
 
-An entirely useless MadLibs library that demonstrates how you can process tagged template strings.
+[![Build Status](https://dev.azure.com/josephharrisonlim/josephharrisonlim/_apis/build/status/jharrilim.madlibs?branchName=master)](https://dev.azure.com/josephharrisonlim/josephharrisonlim/_build/latest?definitionId=4&branchName=master)
+![Version](https://img.shields.io/npm/v/jharrilim/madlibs?style=flat-square)
+![Downloads](https://img.shields.io/npm/dt/jharrilim/madlibs?style=flat-square)
+
+> An entirely useless MadLibs library that demonstrates how you can process tagged template strings.
 
 ## Install
 
